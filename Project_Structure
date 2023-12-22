@@ -1,0 +1,27 @@
+ESTRUCTURA DEL REPOSITORIO
+
+01_Folder **data** ==> .csv files
+
+02_Folder **notebook** ==> .ipynb files
+  02.01_exploración
+  02.02_transformacion
+  02.03_bbdd
+  02.04_visualización
+
+03_Folder *pictures* ==> .jpg files (and similar format)
+  insertar imágenes
+    03.01_de web:
+      ![texto](pegarDIRECCIÓNdeimagen)
+      DALL-E es IA que genera imágenes
+      https://openai.com/dall-e-2
+      TRY DALL-E
+    03.02_de mi repo:
+      ![texto](rutadelaimagen - si está en misma carpeta, con el nombre basta)
+
+04_Folder ETL
+
+05_Folder **scripts_sql** ==> si utilizamos
+
+
+
+
