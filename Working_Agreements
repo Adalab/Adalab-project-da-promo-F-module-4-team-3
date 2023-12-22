@@ -1,0 +1,30 @@
+lunes      8 Enero SPRINT I   Patri
+miércoles 17 Enero SPRINT II  Rocio
+viernes   19 Enero DEMO
+
+ACUERDOS DE GRUPO
+- Trabajamos las cuatro como equipo
+- Si no podemos asisitir, lo comunicamos lo antes que sepamos
+
+CONCILIACIÓN
+- Quedamos fuera si podemos la mayoría
+  A TENER EN CUENTA:
+    - Patricia: disponible
+    - Rocío: martes tarde no puede (disponible hasta las 18:30).
+    - Miriam: disponible entre las 15 y las 17h. Consultar.
+    - Andrea: 
+
+COMUNICACIÓN
+- Comunicación clara, honesta y asertiva
+- Utilizaremos Slack para comentar cuando no estemos juntas
+- Pedimos ayuda si nos bloqueamos o necesitamos algo de las compañeras
+- Preguntamos las dudas: todas sabemos de todo, compartimos código
+
+CÓDIGO
+- Haremos reuniones para compartir el código/avances/bloqueos cuando nos repartamos el trabajo
+- Documentar los cambios en el mismo .ipynb ==> intentamos COMENTAR EL CÓDIGO
+
+GIT HUB
+- A Git Hub subimos sólo lo definitivo:
+             - no esperar a que esté terminado, sino que el documento en sí será el definitivo: subimos las versiones oficiales
+- Acordamos cuándo subir cambios al repositorio: haremos push cuando quedemos, y avisamos para que el resto haga pull
