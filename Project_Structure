@@ -1,26 +1,49 @@
 ESTRUCTURA DEL REPOSITORIO
 
-01_Folder **data** ==> .csv files
+Carpeta **data** ==> ficheros .csv original y limpios (versiones)
 
-02_Folder **notebook** ==> .ipynb files
-  02.01_exploración
-  02.02_transformacion
-  02.03_bbdd
-  02.04_visualización
+Carpeta **notebook** ==> ficheros .ipynb utilizados
+	Subcarpetas:
+	  I_Exploración
+	  II_Transformacion_y_limpieza
+	  III_SQL
+	  IV_Visualizacion
+	  V_AB_testing
 
-03_Folder *pictures* ==> .jpg files (and similar format)
-  insertar imágenes
-    03.01_de web:
-      ![texto](pegarDIRECCIÓNdeimagen)
-      DALL-E es IA que genera imágenes
-      https://openai.com/dall-e-2
-      TRY DALL-E
-    03.02_de mi repo:
-      ![texto](rutadelaimagen - si está en misma carpeta, con el nombre basta)
+Carpeta **pictures** ==> archivos .jpg y similares
+	notas para la inserción de imágenes:
+	    de web: ![texto](pegarDIRECCIÓNdeimagen)
+	    del repo: ![texto](rutadelaimagen - si está en misma carpeta, con el nombre basta)
 
-04_Folder ETL
 
-05_Folder **scripts_sql** ==> si utilizamos
+Carpeta **scripts_SQL**
+
+
+Carpeta **ETL**
+	crear .gitignore
+
+	crear main.py
+
+	¿?crear .DS_Store¿?
+
+	Subcarpetas:
+		carpeta datos: fichero .csv original
+		
+		carpeta src: 
+   		    subcarpeta: crear __pycache__
+		    ficheros .py:
+			support_exploration.py
+			support_nulls.py
+			support_data_transformation_and_cleaning.py
+			support_AB_testing
+			support_SQL
+			queries_creacion_tablas
+			
+
+
+
+
+
 
 
 
